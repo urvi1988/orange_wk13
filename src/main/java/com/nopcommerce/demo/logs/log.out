@@ -1,0 +1,50 @@
+2023-02-09 00:02:376 INFO  HomePage :44 - click on Admintab[[ChromeDriver: chrome on WINDOWS (5088468529dbed92fe11b40244840a62)] -> xpath: //nav[@class='oxd-navbar-nav']/div[2]/ul/li[1]]
+2023-02-09 00:02:415 INFO  ViewSystemUsersPage :78 - getting text of [[ChromeDriver: chrome on WINDOWS (5088468529dbed92fe11b40244840a62)] -> xpath: //h5[text()='System Users']]
+2023-02-09 00:02:916 INFO  ViewSystemUsersPage :153 - Click on add button Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='orangehrm-header-container']//button[@type='button']'
+2023-02-09 00:02:965 INFO  ViewSystemUsersPage :78 - getting text of Proxy element for: DefaultElementLocator 'By.xpath: //h5[text()='System Users']'
+2023-02-09 00:02:215 INFO  HomePage :44 - click on Admintab[[ChromeDriver: chrome on WINDOWS (b6e7c420ce79dee4e4edab007e573c58)] -> xpath: //nav[@class='oxd-navbar-nav']/div[2]/ul/li[1]]
+2023-02-09 00:02:282 INFO  ViewSystemUsersPage :78 - getting text of [[ChromeDriver: chrome on WINDOWS (b6e7c420ce79dee4e4edab007e573c58)] -> xpath: //h5[text()='System Users']]
+2023-02-09 00:02:694 INFO  ViewSystemUsersPage :99 - getting text of Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='oxd-form-row']/div/div[1]//input[@class='oxd-input oxd-input--active']'
+2023-02-09 00:02:864 INFO  ViewSystemUsersPage :143 - Click on search button [[ChromeDriver: chrome on WINDOWS (b6e7c420ce79dee4e4edab007e573c58)] -> xpath: //div[@class='oxd-form-actions']//button[@type='submit']]
+2023-02-09 00:02:139 INFO  HomePage :44 - click on Admintab[[ChromeDriver: chrome on WINDOWS (da3f2ada34c76ce79be251f23986234f)] -> xpath: //nav[@class='oxd-navbar-nav']/div[2]/ul/li[1]]
+2023-02-09 00:02:190 INFO  ViewSystemUsersPage :78 - getting text of [[ChromeDriver: chrome on WINDOWS (da3f2ada34c76ce79be251f23986234f)] -> xpath: //h5[text()='System Users']]
+2023-02-09 00:02:275 INFO  AddUserPage :64 - Enter username[[ChromeDriver: chrome on WINDOWS (da3f2ada34c76ce79be251f23986234f)] -> xpath: //div[@class='oxd-form-row']/div/div[1]//input[@class='oxd-input oxd-input--active']]
+2023-02-09 00:02:882 INFO  ViewSystemUsersPage :143 - Click on search button [[ChromeDriver: chrome on WINDOWS (da3f2ada34c76ce79be251f23986234f)] -> xpath: //div[@class='oxd-form-actions']//button[@type='submit']]
+2023-02-09 00:02:795 INFO  HomePage :44 - click on Admintab[[ChromeDriver: chrome on WINDOWS (03df862d44a852ee0807a7a0d5ab3c1e)] -> xpath: //nav[@class='oxd-navbar-nav']/div[2]/ul/li[1]]
+2023-02-09 00:02:846 INFO  ViewSystemUsersPage :78 - getting text of [[ChromeDriver: chrome on WINDOWS (03df862d44a852ee0807a7a0d5ab3c1e)] -> xpath: //h5[text()='System Users']]
+2023-02-09 00:02:914 INFO  AddUserPage :64 - Enter username[[ChromeDriver: chrome on WINDOWS (03df862d44a852ee0807a7a0d5ab3c1e)] -> xpath: //div[@class='oxd-form-row']/div/div[1]//input[@class='oxd-input oxd-input--active']]
+2023-02-09 00:02:470 INFO  ViewSystemUsersPage :143 - Click on search button [[ChromeDriver: chrome on WINDOWS (03df862d44a852ee0807a7a0d5ab3c1e)] -> xpath: //div[@class='oxd-form-actions']//button[@type='submit']]
+2023-02-09 22:02:211 INFO  HomePage :44 - click on Admintab[[ChromeDriver: chrome on WINDOWS (23c96bc9d8be5de46fe61b0f56923429)] -> xpath: //nav[@class='oxd-navbar-nav']/div[2]/ul/li[1]]
+2023-02-09 22:02:259 INFO  ViewSystemUsersPage :78 - getting text of [[ChromeDriver: chrome on WINDOWS (23c96bc9d8be5de46fe61b0f56923429)] -> xpath: //h5[text()='System Users']]
+2023-02-09 22:02:656 INFO  ViewSystemUsersPage :153 - Click on add button Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='orangehrm-header-container']//button[@type='button']'
+2023-02-09 22:02:667 INFO  ViewSystemUsersPage :93 - getting text of [[ChromeDriver: chrome on WINDOWS (23c96bc9d8be5de46fe61b0f56923429)] -> xpath: //div[@class='orangehrm-card-container']//h6[text()='Add User']]
+2023-02-09 22:02:508 INFO  HomePage :44 - click on Admintab[[ChromeDriver: chrome on WINDOWS (3e2ce2c13fb1b6eeb6f8d2ed71956025)] -> xpath: //nav[@class='oxd-navbar-nav']/div[2]/ul/li[1]]
+2023-02-09 22:02:538 INFO  ViewSystemUsersPage :78 - getting text of [[ChromeDriver: chrome on WINDOWS (3e2ce2c13fb1b6eeb6f8d2ed71956025)] -> xpath: //h5[text()='System Users']]
+2023-02-09 22:02:577 INFO  AddUserPage :64 - Enter username[[ChromeDriver: chrome on WINDOWS (3e2ce2c13fb1b6eeb6f8d2ed71956025)] -> xpath: //div[@class='oxd-form-row']/div/div[1]//input[@class='oxd-input oxd-input--active']]
+2023-02-09 22:02:875 INFO  ViewSystemUsersPage :143 - Click on search button [[ChromeDriver: chrome on WINDOWS (3e2ce2c13fb1b6eeb6f8d2ed71956025)] -> xpath: //div[@class='oxd-form-actions']//button[@type='submit']]
+2023-02-09 22:02:980 INFO  HomePage :44 - click on Admintab[[ChromeDriver: chrome on WINDOWS (a41221af6e8577f89738cef750f56ec8)] -> xpath: //nav[@class='oxd-navbar-nav']/div[2]/ul/li[1]]
+2023-02-09 22:02:09 INFO  ViewSystemUsersPage :78 - getting text of [[ChromeDriver: chrome on WINDOWS (a41221af6e8577f89738cef750f56ec8)] -> xpath: //h5[text()='System Users']]
+2023-02-09 22:02:47 INFO  AddUserPage :64 - Enter username[[ChromeDriver: chrome on WINDOWS (a41221af6e8577f89738cef750f56ec8)] -> xpath: //div[@class='oxd-form-row']/div/div[1]//input[@class='oxd-input oxd-input--active']]
+2023-02-09 22:02:368 INFO  ViewSystemUsersPage :143 - Click on search button [[ChromeDriver: chrome on WINDOWS (a41221af6e8577f89738cef750f56ec8)] -> xpath: //div[@class='oxd-form-actions']//button[@type='submit']]
+2023-02-09 22:02:425 INFO  ViewSystemUsersPage :88 - getting text of Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='orangehrm-horizontal-padding orangehrm-vertical-padding']/span[text()='No Records Found']'
+2023-02-09 22:02:451 INFO  HomePage :44 - click on Admintab[[ChromeDriver: chrome on WINDOWS (3ee3f23bb367c671aad7c94d619d085d)] -> xpath: //nav[@class='oxd-navbar-nav']/div[2]/ul/li[1]]
+2023-02-09 22:02:492 INFO  ViewSystemUsersPage :78 - getting text of [[ChromeDriver: chrome on WINDOWS (3ee3f23bb367c671aad7c94d619d085d)] -> xpath: //h5[text()='System Users']]
+2023-02-09 22:02:532 INFO  AddUserPage :64 - Enter username[[ChromeDriver: chrome on WINDOWS (3ee3f23bb367c671aad7c94d619d085d)] -> xpath: //div[@class='oxd-form-row']/div/div[1]//input[@class='oxd-input oxd-input--active']]
+2023-02-09 22:02:835 INFO  ViewSystemUsersPage :143 - Click on search button [[ChromeDriver: chrome on WINDOWS (3ee3f23bb367c671aad7c94d619d085d)] -> xpath: //div[@class='oxd-form-actions']//button[@type='submit']]
+2023-02-09 22:02:899 INFO  ViewSystemUsersPage :88 - getting text of Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='orangehrm-horizontal-padding orangehrm-vertical-padding']/span[text()='No Records Found']'
+2023-02-09 22:02:374 INFO  HomePage :44 - click on Admintab[[ChromeDriver: chrome on WINDOWS (fb6e06573c9a51776766956f941440bd)] -> xpath: //nav[@class='oxd-navbar-nav']/div[2]/ul/li[1]]
+2023-02-09 22:02:399 INFO  ViewSystemUsersPage :78 - getting text of [[ChromeDriver: chrome on WINDOWS (fb6e06573c9a51776766956f941440bd)] -> xpath: //h5[text()='System Users']]
+2023-02-09 22:02:857 INFO  ViewSystemUsersPage :153 - Click on add button Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='orangehrm-header-container']//button[@type='button']'
+2023-02-09 22:02:869 INFO  ViewSystemUsersPage :93 - getting text of [[ChromeDriver: chrome on WINDOWS (fb6e06573c9a51776766956f941440bd)] -> xpath: //div[@class='orangehrm-card-container']//h6[text()='Add User']]
+2023-02-09 22:02:258 INFO  HomePage :44 - click on Admintab[[ChromeDriver: chrome on WINDOWS (1107e668ad4e040c5bb2fa48a2c4e26c)] -> xpath: //nav[@class='oxd-navbar-nav']/div[2]/ul/li[1]]
+2023-02-09 22:02:288 INFO  ViewSystemUsersPage :78 - getting text of [[ChromeDriver: chrome on WINDOWS (1107e668ad4e040c5bb2fa48a2c4e26c)] -> xpath: //h5[text()='System Users']]
+2023-02-09 22:02:329 INFO  AddUserPage :64 - Enter username[[ChromeDriver: chrome on WINDOWS (1107e668ad4e040c5bb2fa48a2c4e26c)] -> xpath: //div[@class='oxd-form-row']/div/div[1]//input[@class='oxd-input oxd-input--active']]
+2023-02-09 22:02:621 INFO  ViewSystemUsersPage :143 - Click on search button [[ChromeDriver: chrome on WINDOWS (1107e668ad4e040c5bb2fa48a2c4e26c)] -> xpath: //div[@class='oxd-form-actions']//button[@type='submit']]
+2023-02-09 22:02:631 INFO  ViewSystemUsersPage :88 - getting text of Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='orangehrm-horizontal-padding orangehrm-vertical-padding']/span[text()='No Records Found']'
+2023-02-09 22:02:43 INFO  HomePage :44 - click on Admintab[[ChromeDriver: chrome on WINDOWS (4dd9a8ea8df1a5ac2c265aa623f4f954)] -> xpath: //nav[@class='oxd-navbar-nav']/div[2]/ul/li[1]]
+2023-02-09 22:02:72 INFO  ViewSystemUsersPage :78 - getting text of [[ChromeDriver: chrome on WINDOWS (4dd9a8ea8df1a5ac2c265aa623f4f954)] -> xpath: //h5[text()='System Users']]
+2023-02-09 22:02:273 INFO  ViewSystemUsersPage :99 - getting text of Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='oxd-form-row']/div/div[1]//input[@class='oxd-input oxd-input--active']'
+2023-02-09 22:02:562 INFO  HomePage :44 - click on Admintab[[ChromeDriver: chrome on WINDOWS (ff3363f3f51108db8956e3ad37f5f8d5)] -> xpath: //nav[@class='oxd-navbar-nav']/div[2]/ul/li[1]]
+2023-02-09 22:02:589 INFO  ViewSystemUsersPage :78 - getting text of [[ChromeDriver: chrome on WINDOWS (ff3363f3f51108db8956e3ad37f5f8d5)] -> xpath: //h5[text()='System Users']]
+2023-02-09 22:02:629 INFO  AddUserPage :64 - Enter username[[ChromeDriver: chrome on WINDOWS (ff3363f3f51108db8956e3ad37f5f8d5)] -> xpath: //div[@class='oxd-form-row']/div/div[1]//input[@class='oxd-input oxd-input--active']]
+2023-02-09 22:02:964 INFO  ViewSystemUsersPage :143 - Click on search button [[ChromeDriver: chrome on WINDOWS (ff3363f3f51108db8956e3ad37f5f8d5)] -> xpath: //div[@class='oxd-form-actions']//button[@type='submit']]
